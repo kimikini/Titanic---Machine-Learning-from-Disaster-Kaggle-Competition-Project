@@ -1,5 +1,5 @@
 # Titanic---Machine-Learning-from-Disaster-Kaggle-Competition-Project
-🚢 Titanic Survival Prediction – Kaggle Competition
+**🚢 Titanic Survival Prediction – Kaggle Competition**<br>
 This repository contains my analysis and machine learning models developed for the Titanic: Machine Learning from Disaster competition on Kaggle. https://www.kaggle.com/competitions/titanic
 
 **🎯 Objective**<br>
